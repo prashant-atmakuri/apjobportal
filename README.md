@@ -1,2 +1,1 @@
-# apjobportal
-smartintenz redhat ibm project
+# job-portal-app
